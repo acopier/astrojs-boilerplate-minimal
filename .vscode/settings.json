@@ -1,0 +1,6 @@
+{
+  "eslint.experimental.useFlatConfig": true,
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "editor.formatOnSave": true,
+  "files.eol": "\n"
+}
